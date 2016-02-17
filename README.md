@@ -1,2 +1,2 @@
 # hello-world
-a repository
+a repository that says hello
